@@ -2,7 +2,7 @@
   #style.css
 \*-----------------------------------*/
 
-
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
 /**
  * copyright 2022 @codewithsadee
  */
@@ -74,7 +74,7 @@
    */
 
   /* font-family */
-  --ff-poppins: 'Poppins', sans-serif;
+  --ff-poppins: 'Space Grotesk', sans-serif;
 
   /* font-size */
   --fs-1: 24px;
